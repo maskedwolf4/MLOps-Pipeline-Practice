@@ -1,0 +1,6 @@
+dvc
+dvclive
+awscli
+dvc[s3]
+yaml
+nltk
